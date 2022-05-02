@@ -1,6 +1,6 @@
-title: Millidocs Theme
+title: bloXmove 
 description: Documentation for small projects
-url: "https://github.com/alexander-heimbuch/millidocs" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bloxmove-com.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
